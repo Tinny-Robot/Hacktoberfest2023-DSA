@@ -1,6 +1,6 @@
 ## Rules To Contribute To This Repo
 
-- You can write solutions in C/C++/Java for Data Structure and Algorithms.
+- You can write solutions in C/C++/Java/python for Data Structure and Algorithms.
 - Follow the file naming convention for all your pull requests.
 - While adding any content it should be inside its appropriate directory
 - if there is any problem with an inaccurate solution create an issue!
